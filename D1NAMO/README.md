@@ -3,12 +3,10 @@
 ## Overview
 Brief description of what you're investigating.
 
-## Dataset
+## Dataset: [D1NAMO ECG Glucose Data on Kaggle](https://www.kaggle.com/datasets/sarabhian/d1namo-ecg-glucose-data)
 This project uses the D1NAMO dataset, which contains physiological and
 health data from diabetic and healthy participants, including ECG,
 blood glucose, breathing, accelerometer, and food-related data.
-
-## Dataset: [D1NAMO ECG Glucose Data on Kaggle](https://www.kaggle.com/datasets/sarabhian/d1namo-ecg-glucose-data)
 
 The D1NAMO dataset is divided into diabetic and healthy participant subsets.
 Participant directories (`001/`, `002/`, etc.) contain measurements collected
